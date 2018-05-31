@@ -34,7 +34,7 @@
 #define BUF_SIZE    64
 #define LORA_PORT   1
 
-/* Use a unique value for DEV_EUI */
+/* Use a unique value for DEV_EUI in TTN */
 #define DEV_EUI         "0000000000000000"
 
 /* APP_EUI and AP_KEY are provided by the network server (TTN)*/
