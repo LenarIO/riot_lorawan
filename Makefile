@@ -1,6 +1,9 @@
 APPLICATION = lora_meetup_demo
 
-RIOTBASE ?= $(CURDIR)/../..
+# By default assume RIOT folder is inside this one
+RIOTBASE ?= $(CURDIR)/RIOT
+
+# Don't display build logs
 QUIET ?= 1
 #
 # DEVELHELP enabled by default for all tests, set 0 to disable
