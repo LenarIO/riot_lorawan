@@ -1,5 +1,5 @@
 # LoRaWAN in RIOT-OS
-Brief example on how to use LoRaWAN on RIOT-OS
+Brief example on how to use LoRaWAN on [RIOT-OS](http://www.riot-os.org)
 
 # Running this example
 This example can be ran in any RIOT-OS board with LoRaWAN support (embedded or provided via an external radio). By default, it will build for `ST B-L072Z-LRWAN1 LoRa discovery` (b-l072z-lrwan1 on RIOT-OS)
